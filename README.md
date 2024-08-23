@@ -1,7 +1,7 @@
 # Project Template สำหรับวิชา CGE499 Visual Effect for Game
 
 ## Installation
-- Unity version 2022 LTS [Download](https://unity.com/download)
+- Unity version 2023.2 [Download](https://unity.com/download)
 - Visual Studio / Visual Studio Code
 ## Shader Graph
 Tool เอาไว้สำหรับเขียน Shader แบบ Visual Node ทำให้ง่ายสำหรับผู้ที่เริ่มต้นเขียน Shader
