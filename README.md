@@ -1,28 +1,26 @@
-# Project Template สำหรับวิชา CGE499 Visual Effect for Game
+# ประกาศ Final
 
-## Installation
-- Unity version 2023.2 [Download](https://unity.com/download)
-- Visual Studio / Visual Studio Code
-## Shader Graph
-Tool เอาไว้สำหรับเขียน Shader แบบ Visual Node ทำให้ง่ายสำหรับผู้ที่เริ่มต้นเขียน Shader
-วิธีลง
-- Package Manager
-- เลือก Unity Registry
-- Shader Graph
+## สิ่งที่ต้องทำ
+- Particle 5 แบบ ให้เข้ากับมุมกล้องและฉาก (จริงๆ ค่อนข้างจะอิสระ พอสมควร)
+- Shader Particle ใส่ได้เต็มที่
+- Texture ทำเองหรือ หามาได้หมด
+- ใช้ Pro Builder ได้
+- ใช้ Mesh ที่สร้างขึ้นมาเองได้
+- จัดแสง
+- จัด Scene
+- Volume ใช้ได้หมดลย
+- VFX Graph ใช้ได้ถ้าอธิบายให้เราเข้าใจได้ 
 
+## สิ่งที่ห้ามทำ
+- Timeline
+- Third party ของคนอื่น
 
-<br>[Document](https://docs.unity3d.com/Manual/shader-graph.html)</br>
-[แบบง่ายๆ](https://github.com/menstood/ShaderGraph)
+## HOW TO
+- Repo ของ Final
+- Scene ชื่อ Exam เหมือนเดิมนะครับ ใน Scene จะมี
+- Locator1-5 เอาไว้เป็น ตัว Parent กับ Particle เพราะมันจะมี สคริป Active Locator ให้ ไปอยู่ตรงมุมกล้องอยู่แล้ว 
+- ทำตรงข้างล่าง
+  - ===Do== นะครับ
+  - ===Dont Do=== กับ ===CameraGroup=== อย่าไปยุ่งกับมัน
 
-## Particle System
-Tool สำหรับสร้าง Particle Effect แบบพื้นฐาน สำหรับคนที่ไม่เคยเขียนโค้ดมาก่อน
-## VFX Graph
-Tool สำหรับสร้าง Particle Effect แบบขั้นสูง เหมาะสำหรับคนที่เชี่ยวชาญ Visual Node
-วิธีลง
-- Package Manager
-- เลือก Unity Registry
-- VFX Graph
-## Contanct Info
-เม่น
-menstood@gmail.com
-
+กำหนดส่ง 30 ธค 2567
